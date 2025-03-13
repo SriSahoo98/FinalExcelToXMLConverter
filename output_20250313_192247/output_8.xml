@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="ID07359" orderdate="31-Jan">
+  <orderperson>unknown</orderperson>
+  <shipto>
+    <name>Union Club of Boston, 8 Park St Pl</name>
+    <address>8 Park St Pl</address>
+    <city>Boston</city>
+    <region>MA 02108</region>
+  </shipto>
+  <item>
+    <title>Crackers</title>
+    <note>Whole Wheat</note>
+    <quantity>45</quantity>
+    <price>3.49</price>
+    <total>157.05</total>
+  </item>
+</shiporder>

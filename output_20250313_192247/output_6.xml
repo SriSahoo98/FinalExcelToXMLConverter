@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="ID07359" orderdate="31-Jan">
+  <orderperson>unknown</orderperson>
+  <shipto>
+    <name>unknown</name>
+    <address>16 Beacon Street</address>
+    <city>Boston</city>
+    <region>MA 02108</region>
+  </shipto>
+  <item>
+    <title>Cookies</title>
+    <note>Arrowroot</note>
+    <quantity>36</quantity>
+    <price>2.18</price>
+    <total>78.48</total>
+  </item>
+</shiporder>

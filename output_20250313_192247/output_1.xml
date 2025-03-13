@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="ID07351" orderdate="1-Jan">
+  <orderperson>unknown</orderperson>
+  <shipto>
+    <name>University of California San Diego, 9500 Gilman Drive</name>
+    <address>9500 Gilman Drive</address>
+    <city>La Jolla</city>
+    <region>CA 92093</region>
+  </shipto>
+  <item>
+    <title>Bars</title>
+    <note>Carrot</note>
+    <quantity>1233</quantity>
+    <price>1.77</price>
+    <total>2182.41</total>
+  </item>
+</shiporder>
